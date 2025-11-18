@@ -1,4 +1,4 @@
-🚀 SmartSelect+ — AI-Powered Candidate Screening System
+#🚀 SmartSelect+ — AI-Powered Candidate Screening System
 
 Multi-Agent System | Built during AgentX Hackathon 2025
 
@@ -7,7 +7,7 @@ The system analyzes CVs, extracts technical and soft skills, checks eligibility,
 
 It functions as a fully automated multi-step workflow powered by Microsoft Copilot Studio and integrated evaluation logic.
 
-✨ Key Features
+#✨ Key Features
 
 AI-Based CV Parsing: Extracts skills, education, experience, and relevant qualifications.
 
@@ -23,7 +23,7 @@ Transparent Explanations: Shows why a candidate was accepted, rejected, or redir
 
 User-friendly Dashboard: Designed with high-fidelity UI for both applicants and admins.
 
-🧠 How It Works
+#🧠 How It Works
 
 Upload CV information
 
@@ -51,7 +51,7 @@ Needs Improvement
 
 Recommendation Agent suggests better-matching Tuwaiq programs.
 
-🏗️ Technologies Used
+#🏗️ Technologies Used
 
 Microsoft Copilot Studio (Main agent development)
 
@@ -65,7 +65,7 @@ UI/UX Prototyping using Figma
 
 Prompt Engineering for agents
 
-👩🏻‍💻 My Contributions
+#👩🏻‍💻 My Contributions
 
 Project Lead: Scope definition, task planning, team coordination
 
@@ -90,7 +90,7 @@ Recommendation Agent
    ↓
 Dashboard Output
 
-🎯 Use Cases
+#🎯 Use Cases
 
 Training programs (e.g., Tuwaiq)
 
